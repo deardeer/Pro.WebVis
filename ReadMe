@@ -1,3 +1,4 @@
 Project: Visualization in Web
 Author: Min Lu
 Start Time:  2016-11-09
+Detail: In this project, we develop a visualization construction tool, serving as the add-on for webpage. It supports to create visualizations for content on the webpage, including the text, table etc.
